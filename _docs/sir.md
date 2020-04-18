@@ -1,9 +1,7 @@
 ---
-title: SIR
+title: SIR Model
 permalink: /docs/SIR/
 ---
-
-# SIR model
 
 The SIR model is a epidemiological model to simulate the time evolution of disease spreading.
 At the core is the division of the whole population $$ N $$ in three subsets $$ S $$ ("Susceptible"), $$ R $$ ("Recovered") and $$ I $$ ("Infected").
