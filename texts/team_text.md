@@ -9,7 +9,11 @@ Additionally he consulted on the modeling of the pandemic.
  
 # Marius (modeling) 
  
-Marius... 
+Marius is a PhD candidate in experimental quantum physics at ETH Zurich.
+His research is investigating the nature of quantum states of sound in crystals for both, fundamental insights in the behavior of quantum states as well as their utilization for novel ways of information processing.
+
+In the project he is working on modelling data pandemic data.
+The long term goal is to obtain a decision making tool that can take into account political measures when predicting pandemic evolution.
  
 # Bileam (data layer) 
  
@@ -23,12 +27,18 @@ To overcome encountered challenges he talked to his pet chicken or consumed caff
 He wanted to become a fighter-pilot, but his legs were too long for the ejection seat. 
 At some point in his life, Bileam aims to work for Elon Musk and live in Norway. 
 He enjoys philosophy, especially late at night. 
- 
+
 # Nestor (modeling) 
  
-Nestor... 
+Nestor finished recently his PhD on signal processing for remote sensing with RADAR systems.
+He developed algorithms for the processing of wide-swath data acquired from satellite and focused on the study of geophysical processes of the Earth, as seismic phenomena.
+
+His contribution to this project was the modeling of data through the SIR and SEIR models.
+He made a workteam with Richard and Marius and could learn how to work with pandas and the importance of data pre-preocessing and harmonization.
+
+In his free time he rides his roadbike, swims in the Eisbach and find his balance practicing yoga and meditation.
  
-# Kilian (bonus web developer) 
+# Kilian (web development) 
  
 Kilian is born in lower Bavaria. 
 He has a M.Sc in Mechanical Engineering and is about to finish his M.Sc. in Automotive Software Engineering at TU Munich. 
