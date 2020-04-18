@@ -23,12 +23,12 @@ We have been working on all three parts to provide an end-to-end prototype to sh
 
 We used the data science stack of python: python, scipy, numpy, pandas. The webpage is running on the github.
 
-## Challenges we ran into
+### Challenges we ran into
 
 Finding data for the countries was not that simple, cleaning it, defining standards - all that takes quite a bit of time.
 Also, the modelling is suprisingly hard: Getting it right for a single dataset by giving the modelling near perfect starting values for the model parameters is one thing - having it work robustly for every country is much harder.
 
-## What we are proud of and what we learned
+### What we are proud of and what we learned
 
 We are proud that we takled such a hard topic.
 We ard glad to have learned so much on how to build well designed data architectures and to learn so much about robust time series forecasting.
