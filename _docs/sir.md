@@ -5,7 +5,7 @@ permalink: /docs/modeling/
 
 The SIR model is a epidemiological model to simulate the time evolution of disease spreading.
 At the core is the division of the whole population $$ N $$ in three subsets $$ S $$ ("Susceptible"), $$ R $$ ("Recovered") and $$ I $$ ("Infected").
-Therefore at all times, $$ I + S + R = N $$ holds.
+Therefore at all times, $$ E+ I + S + R = N $$ holds.
 The model then consists of three ordinary non-linear differential equations - one for each subset.
 The two model parameters $$ \beta $$ (average number of people getting infected by one infected) and $$ \gamma $$ (average recoveries per time step).
 The ratio of these two numbers $$ R_0:=\frac{\beta}{\gamma} $$ is called the "basic reproduction number" and is a key variable that determines the trajectory of the epidemic.
