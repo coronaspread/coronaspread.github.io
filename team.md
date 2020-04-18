@@ -72,7 +72,18 @@ layout: default
             <h1 class="text-center"><i class="fa fa-user" aria-hidden="true"></i></h1>
             <h3 class="text-center">Nestor</h3>
             <h4 class="text-center">modeling</h4>
-            <p>TBD</p>
+            <p>
+            Nestor finished recently his PhD on signal processing for remote sensing with RADAR systems.
+                He developed algorithms for the processing of wide-swath data acquired from satellite and focused on the study of geophysical processes of the Earth, as seismic phenomena.
+            </p>
+            <p>
+            His contribution to this project was the modeling of data through the SIR and SEIR models.
+            He made a workteam with Richard and Marius and could learn how to work with pandas and the importance of data pre-preocessing and harmonization.
+            </p>
+
+    <p>
+    In his free time he rides his roadbike, swims in the Eisbach and find his balance practicing yoga and meditation.
+    </p>
         </div>
 
         <div class="col-sm-4">
