@@ -1,8 +1,8 @@
 # Site settings
-title: CodeVSCovid
+title: Corona Spread
 email: codevscovid@example.com
 description: >
-  We apply data science in order to understand COVID-19 better
+  Corona Spread: Data Layer and Modelling
 lang: en-US
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
