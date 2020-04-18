@@ -4,7 +4,7 @@ permalink: /docs/modeling/
 ---
 
 The SIR model is a epidemiological model to simulate the time evolution of disease spreading.
-At the core is the division of the whole population $$ N $$ in three subsets $$ S $$ ("Susceptible"), $$ R $$ ("Recovered") and $$ I $$ ("Infected").
+At the core is the division of the whole population $$ N $$ in four subsets $$ S $$ ("Susceptible"), $$ E $$ ("Exposed"), $$ R $$ ("Recovered") and $$ I $$ ("Infected"). All of those measures are time dependent.
 Therefore at all times, $$ E+ I + S + R = N $$ holds.
 The model then consists of three ordinary non-linear differential equations - one for each subset.
 The two model parameters $$ \beta $$ (average number of people getting infected by one infected) and $$ \gamma $$ (average recoveries per time step).
@@ -27,11 +27,8 @@ $$
 $$
 
 $$
-\dot{N} = S + E + I + R
+N = S + E + I + R
 $$
-
-(“Susceptible”), (“Recovered”), ("Exposed") and (“Infected”) to be time dependent.
-
 
 The logistic regression can be seen as the integrated result of this set of differential equations.
 In this sense both models should be equally powerful to model the datasets at hand.
