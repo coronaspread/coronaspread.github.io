@@ -36,7 +36,11 @@ layout: default
         <h1 class="text-center"><i class="fa fa-user" aria-hidden="true"></i></h1>
         <h3 class="text-center">Marius</h3>
         <h4 class="text-center">modeling</h4>
-        <p>TBD</p>
+        <p>
+        Marius is a PhD candidate in experimental quantum physics at ETH Zurich.
+        His research is investigating the nature of quantum states of sound in crystals for both, fundamental insights in the behavior of quantum states as well as their utilization for novel ways of information processing.
+        In the project he is working on modelling data pandemic data. The long term goal is to obtain a decision making tool that can take into account political measures when predicting pandemic evolution.
+        </p>
         </div>
         
         <div class="col-sm-4">
