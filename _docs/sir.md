@@ -1,6 +1,6 @@
 ---
 title: SIR Model
-permalink: /docs/SIR/
+permalink: /docs/modeling/
 ---
 
 The SIR model is a epidemiological model to simulate the time evolution of disease spreading.

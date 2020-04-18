@@ -1,5 +1,6 @@
 - title: Content
   docs:
   - project
-  - SIR
   - data-layer
+  - modeling
+  - visualization
