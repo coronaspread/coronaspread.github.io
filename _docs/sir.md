@@ -29,6 +29,7 @@ $$
 $$
 \dot{N} = S + E + I + R
 $$
+
 (“Susceptible”), (“Recovered”), ("Exposed") and (“Infected”) to be time dependent.
 
 
