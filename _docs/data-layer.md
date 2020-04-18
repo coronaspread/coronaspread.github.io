@@ -6,7 +6,7 @@ permalink: /docs/data-layer/
 The data layer downloads datasets and harmonizes each dataset, so that it is consistent to a defined data model.
 Finally the datasets can easily be merged into one complete dataset.
 
-![Data Layer]({{ "/assets/img/data_layer.png" | relative_url }} "Logo Title Text 1")
+![Data Layer]({{ "/assets/img/data_layer.png" | relative_url }} "Data Layer")
 
 We will also enrich the datasets with population and measure datasets, which we have started to collect.
 
