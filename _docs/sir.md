@@ -10,6 +10,28 @@ The model then consists of three ordinary non-linear differential equations - on
 The two model parameters $$ \beta $$ (average number of people getting infected by one infected) and $$ \gamma $$ (average recoveries per time step).
 The ratio of these two numbers $$ R_0:=\frac{\beta}{\gamma} $$ is called the "basic reproduction number" and is a key variable that determines the trajectory of the epidemic.
 
+$$
+\dot{S} = - \beta \cdot S \cdot I
+$$
+
+$$
+\dot{S} = - \beta \cdot S \cdot I
+$$
+
+$$
+\dot{I} = \alpha \cdot E \cdot I - \gamma \cdot I
+$$
+
+$$
+\dot{R} = \gamma \cdot I
+$$
+
+$$
+\dot{N} = S + E + I + R
+$$
+(“Susceptible”), (“Recovered”), ("Exposed") and (“Infected”) to be time dependent.
+
+
 The logistic regression can be seen as the integrated result of this set of differential equations.
 In this sense both models should be equally powerful to model the datasets at hand.
 However, if we want to look into the future (especially considering changes of political policies and measures) the logistic regression will always be a simple extrapolation from the existing data.
