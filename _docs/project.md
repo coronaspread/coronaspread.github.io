@@ -1,3 +1,9 @@
+---
+title: Project Description
+permalink: /docs/project/
+redirect_from: /docs/index.html
+---
+
 # Inspiration
 
 Until a few weeks ago there were hardly any useful infographics, modelling of the spread or curated datasets about Covid-19 available. This made it hard to communicate the gravity of the situation to friends and decision makers. Also this made it difficult for researchers to just start, analyse data, develop machine learning models. Thus, Richard started to takle this as a project. His inspiration was to build unified and curated datasets of various countries, which contain Covid-19 cases with population details and political actions to forecast future spread in order to enable both decision makers and individuals to make personal adjustments.
