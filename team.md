@@ -17,8 +17,33 @@ layout: default
     </div>
     <hr>
     <div class="row">
+    <div class="col-sm-4">
+            <h1 class="text-center"><i class="fa fa-user" aria-hidden="true"></i></h1>
+            <h3 class="text-center">Richard</h3>
+            <h4 class="text-center">lead</h4>
+            <p>
+                Richard is Senior Data Scientist for Artificial Intelligence in a company that provides data quality software. 
+                Also, he is a doctoral candidate at the Technical University of Munich, where he does foundational research in Machine Learning. 
+            </p>
+            <p>
+                In this project he served as the project lead. 
+                Technically he was responsible for the definition of the data model of the data layer and implemented respective code. 
+                Additionally he consulted on the modeling of the pandemic. 
+            </p>
+        </div>
+        
         <div class="col-sm-4">
+        <h1 class="text-center"><i class="fa fa-user" aria-hidden="true"></i></h1>
+        <h3 class="text-center">Marius</h3>
+        <h4 class="text-center">modeling</h4>
+        <p>TBD</p>
+        </div>
+        
+        <div class="col-sm-4">
+            <h1 class="text-center"><i class="fa fa-user" aria-hidden="true"></i></h1>
             <h3 class="text-center">Bileam</h3>
+            <h4 class="text-center">data layer</h4>
+            
                 <p>
                     Bileam is a student from the middle of Germany, with a passion for computer science,
                     who uses the spare-time gained from postponed finals to contribute to this project.
@@ -38,17 +63,26 @@ layout: default
                      He enjoys philosophy, especially late at night.
                  </p>
         </div>
+        
         <div class="col-sm-4">
-            
-            <h3 class="text-center">Modular Styling and Templating</h3>
-            <p>This template uses <a href="https://github.com/twbs/bootstrap-sass">bootstrap-sass</a> along with <a href="https://bootswatch.com/">Bootwatch themes</a>.
-            You can change the theme or write your custom one by overwriting bootstrap sass variables for a different color set, font options, etc.</p>
+            <h1 class="text-center"><i class="fa fa-user" aria-hidden="true"></i></h1>
+            <h3 class="text-center">Nestor</h3>
+            <h4 class="text-center">modeling</h4>
+            <p>TBD</p>
         </div>
+
         <div class="col-sm-4">
-            <h1 class="text-center"><i class="fa fa-code-fork" aria-hidden="true"></i></h1>
-            <h3 class="text-center">Git-based source control</h3>
-            <p>Leverage from Git version control system by
-              maintaining your documentation along with the source code; publish the page when you merge to the master branch.</p>
+            <h1 class="text-center"><i class="fa fa-user" aria-hidden="true"></i></h1>
+            <h3 class="text-center">Kilian</h3>
+            <h4 class="text-center">web development</h4>
+            <p>
+            Kilian is born in lower Bavaria. 
+            He has a M.Sc in Mechanical Engineering and is about to finish his M.Sc. in Automotive Software Engineering at TU Munich. 
+            He will start with a PhD about real time networking soon. 
+            He came across this project by a call for help to help creating this website. 
+
+            During his breaks he loves juggling and slacklining.
+            </p>
         </div>
     </div>
 </div>
